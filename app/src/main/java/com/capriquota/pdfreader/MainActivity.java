@@ -5,6 +5,7 @@ import android.os.Bundle;
 import com.github.barteksc.pdfviewer.PDFView;
 import com.github.barteksc.pdfviewer.util.FitPolicy;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
